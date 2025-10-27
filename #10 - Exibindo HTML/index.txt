@@ -1,0 +1,7 @@
+Para a importação de páginas locais, devemos utilizar a biblioteca chamada fileSystem, que no nosso programa principal iremos importar com a seguinte sintaxe; 
+const fs = require('fs'); 
+
+Forma para mostrar um arquivo html somente com o send: 
+app.get('/send', (req, res) => {
+    res.sendFile(__dirname + "/html/nomeArquivo"); 
+})

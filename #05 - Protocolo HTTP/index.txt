@@ -1,0 +1,2 @@
+- Através do protocolo HTTP é possível a comunicação do usuário com o servidor 
+ 

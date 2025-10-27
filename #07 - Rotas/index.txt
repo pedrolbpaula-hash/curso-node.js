@@ -1,0 +1,2 @@
+Criação da página principal, about, blog e home para treinar a sintaxe e lógica da criação do servidor 
+

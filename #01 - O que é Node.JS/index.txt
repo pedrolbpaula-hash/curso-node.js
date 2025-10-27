@@ -1,0 +1,17 @@
+É um interpretador Javascript que não depende do navegador, ou seja, ele é totalmente desvinculado do navegador. 
+
+- O v8 é um motor do google que fica dentro do google chrome, ele entende o javascript/node 
+- libuv é uma biblioteca que possibilita o node ser uma linguagem backend e ter relacionamento com o banco de dados 
+
+Vantagens: 
+- Muito leve, pouco uso de memória Ram, melhor aproveitamento da cpu; 
+- Utiliza javascript; 
+- Tem um dos maiores ecossistemas de bibliotecas, módulos e plug-ins do mundo; 
+- Suporta um número imenso de requisições.  
+
+Empresas que utilizam? 
+- Ebay; 
+- Microsoft; 
+- Netflix; 
+- Uber; 
+- PayPal. 
