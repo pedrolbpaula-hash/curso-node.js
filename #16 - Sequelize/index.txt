@@ -1,0 +1,7 @@
+Sequelize - Nos auxilia a trabalhar com o node diretamente com o banco de dados     
+
+Comando para baixar o módulo do sequelize: npm install --save sequelize
+
+Comando para baixar o módulo do mysql: npm install --save mysql2
+
+* Ele é um ORM: Sitema que abstrai toda a camada do mysql. Aparentemente não é necessário digitar todo o comando mysql para realizar as querys 
