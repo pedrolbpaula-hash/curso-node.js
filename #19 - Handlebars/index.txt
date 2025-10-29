@@ -1,0 +1,2 @@
+Handlebars: Um template que pode trazer inúmeras funcionalidades ao código HTML. Exemplos: Utilização de if, for, while entre outros tipos de procedimentos dentro de um código html 
+Mostrar dados do backend para a parte visual do app(frontend)
