@@ -1,0 +1,3 @@
+* O rander servirá para mostrarmos as partes específicas do site realizadas pelo handlebars. 
+
+Observação: Na main do handlebars ficará o conteúdo base do HTML, e cada parte em específica do site deverá ser realizada em arquivos handlebars diferentes 
