@@ -1,0 +1,17 @@
+Em um formulário HTML temos duas formas de enviarmos dados para o back-end(express), sendo elas: Method POST e Method GET
+
+* O GET envia os dados pela URL, acredito que ele seja o default em um form 
+* O POST não passa os dados pela URL como o método POST 
+
+Observação: Na utilização do método POST, será preciso realizar essa alteração no servidor express também. Também não é possível acessar os métodos POSTS pela URL
+Antes: 
+
+app.get('/', (req, res) => {
+
+})
+
+Depois: 
+
+app.post('/', (req, res) => {
+
+})
